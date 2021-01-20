@@ -1,0 +1,75 @@
+{
+  "object_kind": "pipeline",
+  "object_attributes": {
+    "id": 206158910,
+    "ref": "staging",
+    "tag": false,
+    "sha": "ba3d1f3df2c04b86e2f759cf9c673bd3bc4960fc",
+    "before_sha": "14bb3d31c4ffeff0f974ea9be3d0b4f83a76555b",
+    "source": "push",
+    "status": "pending",
+    "detailed_status": "pending",
+    "stages": ["deploy"],
+    "created_at": "2020-10-22 08:17:28 UTC",
+    "finished_at": null,
+    "duration": null,
+    "variables": []
+  },
+  "merge_request": null,
+  "user": {
+    "name": "Thanapon Tapala",
+    "username": "thanapon.toy",
+    "avatar_url": "https://secure.gravatar.com/avatar/b5e0a5bc171e7d8cb8a69bb97b73aaa2?s=80&d=identicon",
+    "email": "thanapon.tap@bkp.co.th"
+  },
+  "project": {
+    "id": 21389681,
+    "name": "traceabilityCacheNotification",
+    "description": "",
+    "web_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+    "git_http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git",
+    "namespace": "Digitization",
+    "visibility_level": 0,
+    "path_with_namespace": "fitdigital/digitization/traceabilitycachenotification",
+    "default_branch": "dev",
+    "ci_config_path": ""
+  },
+  "commit": {
+    "id": "ba3d1f3df2c04b86e2f759cf9c673bd3bc4960fc",
+    "message": "Merge branch 'dev' into 'staging'\n\nAdd extend expired time and update env file\n\nSee merge request fitdigital/digitization/traceabilitycachenotification!22",
+    "title": "Merge branch 'dev' into 'staging'",
+    "timestamp": "2020-10-22T08:17:27+00:00",
+    "url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification/-/commit/ba3d1f3df2c04b86e2f759cf9c673bd3bc4960fc",
+    "author": {
+      "name": "Thanapon Tapala",
+      "email": "thanapon.tap@bkp.co.th"
+    }
+  },
+  "builds": [
+    {
+      "id": 805701392,
+      "stage": "deploy",
+      "name": "deploy_staging",
+      "status": "pending",
+      "created_at": "2020-10-22 08:17:28 UTC",
+      "started_at": null,
+      "finished_at": null,
+      "when": "on_success",
+      "manual": false,
+      "allow_failure": false,
+      "user": {
+        "name": "Thanapon Tapala",
+        "username": "thanapon.toy",
+        "avatar_url": "https://secure.gravatar.com/avatar/b5e0a5bc171e7d8cb8a69bb97b73aaa2?s=80&d=identicon",
+        "email": "thanapon.tap@bkp.co.th"
+      },
+      "runner": null,
+      "artifacts_file": {
+        "filename": null,
+        "size": null
+      }
+    }
+  ]
+}

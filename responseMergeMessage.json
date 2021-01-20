@@ -1,0 +1,127 @@
+{
+  "object_kind": "merge_request",
+  "event_type": "merge_request",
+  "user": {
+    "name": "Thanapon Tapala",
+    "username": "thanapon.toy",
+    "avatar_url": "https://secure.gravatar.com/avatar/b5e0a5bc171e7d8cb8a69bb97b73aaa2?s=80&d=identicon",
+    "email": "thanapon.tap@bkp.co.th"
+  },
+  "project": {
+    "id": 21389681,
+    "name": "traceabilityCacheNotification",
+    "description": "",
+    "web_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+    "git_http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git",
+    "namespace": "Digitization",
+    "visibility_level": 0,
+    "path_with_namespace": "fitdigital/digitization/traceabilitycachenotification",
+    "default_branch": "dev",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+    "url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+    "ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+    "http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git"
+  },
+  "object_attributes": {
+    "assignee_id": null,
+    "author_id": 5222204,
+    "created_at": "2020-10-22 08:17:06 UTC",
+    "description": "",
+    "head_pipeline_id": null,
+    "id": 75294549,
+    "iid": 22,
+    "last_edited_at": null,
+    "last_edited_by_id": null,
+    "merge_commit_sha": "ba3d1f3df2c04b86e2f759cf9c673bd3bc4960fc",
+    "merge_error": null,
+    "merge_params": {},
+    "merge_status": "can_be_merged",
+    "merge_user_id": null,
+    "merge_when_pipeline_succeeds": false,
+    "milestone_id": null,
+    "source_branch": "dev",
+    "source_project_id": 21389681,
+    "state_id": 3,
+    "target_branch": "staging",
+    "target_project_id": 21389681,
+    "time_estimate": 0,
+    "title": "Add extend expired time and update env file",
+    "updated_at": "2020-10-22 08:17:28 UTC",
+    "updated_by_id": null,
+    "url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification/-/merge_requests/22",
+    "source": {
+      "id": 21389681,
+      "name": "traceabilityCacheNotification",
+      "description": "",
+      "web_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "git_http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git",
+      "namespace": "Digitization",
+      "visibility_level": 0,
+      "path_with_namespace": "fitdigital/digitization/traceabilitycachenotification",
+      "default_branch": "dev",
+      "ci_config_path": "",
+      "homepage": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+      "url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git"
+    },
+    "target": {
+      "id": 21389681,
+      "name": "traceabilityCacheNotification",
+      "description": "",
+      "web_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "git_http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git",
+      "namespace": "Digitization",
+      "visibility_level": 0,
+      "path_with_namespace": "fitdigital/digitization/traceabilitycachenotification",
+      "default_branch": "dev",
+      "ci_config_path": "",
+      "homepage": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification",
+      "url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "ssh_url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+      "http_url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification.git"
+    },
+    "last_commit": {
+      "id": "b1abc64e32c964342b69edb63fe310b29a8ab881",
+      "message": "Add extend expired time and update env file\n",
+      "title": "Add extend expired time and update env file",
+      "timestamp": "2020-10-22T15:13:26+07:00",
+      "url": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification/-/commit/b1abc64e32c964342b69edb63fe310b29a8ab881",
+      "author": {
+        "name": "thanapon tapala",
+        "email": "thanapon.tap@bkp.co.th"
+      }
+    },
+    "work_in_progress": false,
+    "total_time_spent": 0,
+    "human_total_time_spent": null,
+    "human_time_estimate": null,
+    "assignee_ids": [],
+    "state": "merged",
+    "action": "merge"
+  },
+  "labels": [],
+  "changes": {
+    "state_id": {
+      "previous": 4,
+      "current": 3
+    },
+    "updated_at": {
+      "previous": "2020-10-22 08:17:27 UTC",
+      "current": "2020-10-22 08:17:28 UTC"
+    }
+  },
+  "repository": {
+    "name": "traceabilityCacheNotification",
+    "url": "git@gitlab.com:fitdigital/digitization/traceabilitycachenotification.git",
+    "description": "",
+    "homepage": "https://gitlab.com/fitdigital/digitization/traceabilitycachenotification"
+  }
+}
